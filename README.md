@@ -1,17 +1,9 @@
-# my_portfolio
+# Persib Bandung Flutter 
 
-A new Flutter project.
+Mini Project Flutter - Aplikasi Profil Persib Bandung.
 
-## Getting Started
+## Tampilan Aplikasi
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Halaman Utama
+![Persib Home](screenshots/<img width="1364" height="715" alt="Screenshot 2026-11-14 022836" src="https://github.com/user-attachments/assets/75d40d5f-a20b-4d67-be58-56d88c87bf48" />
+)![Uploading Screenshot 2026-11-14 022836.png…]()
